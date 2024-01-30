@@ -1,11 +1,11 @@
 Name;Parent;LFB;Alias
 Technische Universität Braunschweig;;;TUBS
-Carl-Friedrich-Gauß-Fakultät;TUBS;;FK1
-Fakultät für Lebenswissenschaften;TUBS;;FK2
-Fakultät Architektur, Bauingenieurwesen und Umweltwissenschaften;TUBS;;FK3
-Fakultät für Maschinenbau;TUBS;;FK4
-Fakultät für Elektrotechnik, Informationstechnik und Physik;TUBS;;FK5
-Fakultät für Geistes- und Erziehungswissenschaften;TUBS;;FK6
+Carl-Friedrich-Gauß-Fakultät;TUBS;;F1
+Fakultät für Lebenswissenschaften;TUBS;;F2
+Fakultät Architektur, Bauingenieurwesen und Umweltwissenschaften;TUBS;;F3
+Fakultät für Maschinenbau;TUBS;;F4
+Fakultät für Elektrotechnik, Informationstechnik und Physik;TUBS;;F5
+Fakultät für Geistes- und Erziehungswissenschaften;TUBS;;F6
 Cluster of Excellence SE2A;F4;MEC;
 Institut Computational Mathematics;F1;MAT;
 Institut für Adaptronik und Funktionsintegration;F4;MEC;
